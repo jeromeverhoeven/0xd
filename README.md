@@ -11,4 +11,4 @@ Define:  The definition of the product
 Design: The design of the product
 | Deliverable | Owner |
 |----|----|
-| [Design Specification Template](./Design/Spec-1) | TBD|
+| [Design Specification Template](./Design/Spec-1.md) | TBD|
