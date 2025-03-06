@@ -9,8 +9,10 @@
 
 | Num | Item | Expansion | MuSCoW | notes |
 |----|----|----|----|----|
-| -4 | Love | If you don't do this your project will fail | Must | put your notes here |
-|-3 | Like | These are things that your project will be graded on, the more and better you accomplish each item will determine if you get an A+ or a D- | Should | add notes they help |
-|-2| Might be Cool | Maybe you will do these things.  Stretch goals, explore, have fun, not super important right now however | Could | Don't forget your notes |
-|-1 | Crossed off | These things are specifically items that won't be done and providing a reason really help | Wont |  Notes here, apostrophes freak me out
-|1|Minimalistic | Keeping things basic makes the accessable and we want this project to be accessable | Should | |
+|1|Minimalistic | Keeping things basic makes the accessable and we want this project to be accessable | **Should** | |
+|||||
+| 100 | Love | If you don't do this your project will fail | `Must` |  This line is an example, put your notes here |
+|101 | Like | These are things that your project will be graded on, the more and better you accomplish each item will determine if you get an A+ or a D- | **Should** | This line is an example, add notes they help |
+|102| Might be Cool | Maybe you will do these things.  Stretch goals, explore, have fun, not super important right now however | *Could* | This line is an example.  Don't forget your notes |
+| 103 | Crossed off | These things are specifically items that won't be done and providing a reason really help | Wont |  This line is an example.  Notes here, apostrophes freak me out
+
