@@ -26,4 +26,14 @@ Structure of repository for product development
 | [TC-EXAMPLE](./Destroy/TestCases/TC-EXAMPLE.md) | TBD |
 
 ## TestCycle-1
-|[TC-EXAMPLE-EXE](./Destroy/TestCycle-1/TC-EXAMPLE-EXE.md)] | Result |
+|[TC-EXAMPLE-EXE](./Destroy/TestCycle-1/TC-EXAMPLE-EXE.md) | Result |
+
+# Deploy
+| Deliverable | Description | Owner |
+|-------------|-------------|-------|
+| [Asset Template](./Deploy/asset-template.md) | Description of Asset | TBD |
+
+# Appendix
+| File | Description | Owner |
+|------|-------------|-------|
+| [Asset Template](./Appendix/asset-template.md) | Description of Asset | TBD |
