@@ -39,6 +39,18 @@ classDiagram
         }
 ```
 
+### Flow Chart Template
+```mermaid
+---
+config:
+      theme: redux
+---
+flowchart TD
+        A(["Start"])
+        A --> B{"Decision"}
+        B --> C["Option A"]
+        B --> D["Option B"]
+```
 
 ### Components
 List and describe the main components of the project.
