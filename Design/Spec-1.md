@@ -15,6 +15,31 @@ List and describe the non-functional requirements of the project.
 ### Architecture
 Describe the overall architecture of the project, including diagrams if necessary.
 
+```mermaid
+classDiagram
+        Animal <|-- Duck
+        Animal <|-- Fish
+        Animal <|-- Zebra
+        Animal : +int age
+        Animal : +String gender
+        Animal: +isMammal()
+        Animal: +mate()
+        class Duck {
+          +String beakColor
+          +swim()
+          +quack()
+        }
+        class Fish {
+          -int sizeInFeet
+          -canEat()
+        }
+        class Zebra {
+          +bool is_wild
+          +run()
+        }
+```
+
+
 ### Components
 List and describe the main components of the project.
 
