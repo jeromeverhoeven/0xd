@@ -41,16 +41,21 @@ classDiagram
 
 ### Flow Chart Template
 ```mermaid
----
-config:
-      theme: redux
----
 flowchart TD
         A(["Start"])
         A --> B{"Decision"}
         B --> C["Option A"]
         B --> D["Option B"]
 ```
+### Sequence Diagram Template
+```mermaid
+sequenceDiagram
+        actor Alice
+        actor Bob
+        Alice->>Bob: Hi Bob
+        Bob->>Alice: Hi Alice
+```
+
 
 ### Components
 List and describe the main components of the project.
