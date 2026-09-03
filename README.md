@@ -4,9 +4,9 @@ Define-Design-Develop-Destroy-Deploy
 Structure of repository for product development
 
 # Define:  The definition of the product
-| Deliverable | Owner |
-|----|----|
-| [MuSCoW](./Define/MuSCoW.md) | [jerome v](https://github.com/jeromeverhoeven)|
+| Deliverable | Description | Owner |
+|----|----|-----|
+| [6080001](./Define/6080001.md)| MuSCoW |Jerome Verhoeven|
 
 # Design: The design of the product
 | Deliverable | Owner |
